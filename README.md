@@ -110,7 +110,7 @@ In our work, we have used the source code~\cite{Evangelou_2023_CGI_2023}, availa
 
 
 ## Acknowledgments
-<img src="ELIDEK_Logo__Vector__GR_ENG_combo.jpg" alt="ELIDEK_LOGO" align="left" style="float:left;width:120px;aspect-ratio: 2.59;" /> This research was funded by the Hellenic Foundation for Research and Innovation (H.F.R.I.) under the <em>“3rd Call for H.F.R.I. Research Projects to support Post-Doctoral Researchers”</em> (Project No: 7310, <a href="https://lotus.aueb.gr">LOTUS</a>).
+<img src="ELIDEK_Logo__Vector__GR_ENG_combo.jpg" alt="ELIDEK_LOGO" align="left" style="float:left;width:140px;aspect-ratio: 2.59;" /> This research was funded by the Hellenic Foundation for Research and Innovation (H.F.R.I.) under the <em>“3rd Call for H.F.R.I. Research Projects to support Post-Doctoral Researchers”</em> (Project No: 7310, <a href="https://lotus.aueb.gr">LOTUS</a>).
 
 Credits for the included scenes (per-scene credits are in **Figure 2** of the paper):
 - [Rendering resources](https://benedikt-bitterli.me/resources/) by Benedikt Bitterli 
