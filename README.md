@@ -27,7 +27,7 @@ seaborn==0.11.2
 ```
 
 ## Downloading the Dataset
-The dataset used both in the paper and this code is available *[here](https://cloud.aueb.gr/index.php/s/wH5Nt9wsHfn3r8c)* (1GB - 2.6GB extracted). Download and extract it at the root folder of the project.
+The dataset used both in the paper and this code is available *[here](https://cloud.aueb.gr/index.php/s/6sGwDgYz6GyBemT)* (1GB - 2.6GB extracted). Download and extract it at the root folder of the project.
 
 Details:
 - The dataset directory is at ``datasets/custom_scenes``
