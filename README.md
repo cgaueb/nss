@@ -24,6 +24,8 @@ pandas==1.4.3
 tensorflow==2.10.1
 matplotlib==3.5.3
 seaborn==0.11.2
+cudnn==8.2.1.32
+cudatoolkit==11.2.2
 ```
 
 ## Downloading the Dataset
