@@ -1,5 +1,5 @@
 # A Neural Builder for Spatial Subdivision Hierarchies
-This repository contains the source code of the paper: *[A Neural Builder for Spatial Subdivision Hierarchies](https://cloud.aueb.gr/index.php/s/FgaxFtjz33Gisoi)*, published in **The Visual Computer** and presented at the **[Computer Graphics International 2023](https://www.cgs-network.org/cgi23)** conference.
+This repository contains the source code of the paper: *[A Neural Builder for Spatial Subdivision Hierarchies](https://doi.org/10.1007/s00371-023-02975-y)*, published in **The Visual Computer** and presented at the **[Computer Graphics International 2023](https://www.cgs-network.org/cgi23)** conference.
 
 The code, written in Python, showcases how to train and test the network with both a default and your own model, in order to infer a fixed-level tree structure. The resulting fixed-depth tree can then be further expanded, in parallel, into either a full *k*-d tree or transformed into a bounding volume hierarchy, with any known conventional tree builder. For more details on the last part, please see the paper.
 
@@ -29,7 +29,7 @@ cudatoolkit==11.2.2
 ```
 
 ## Downloading the Dataset
-The dataset used both in the paper and this code is available *[here](https://cloud.aueb.gr/index.php/s/6sGwDgYz6GyBemT)* (1GB - 2.6GB extracted). Download and extract it at the root folder of the project.
+The dataset used both in the paper and this code is available *[here](https://cloud.aueb.gr/index.php/s/FgaxFtjz33Gisoi)* (1GB - 2.6GB extracted). Download and extract it at the root folder of the project.
 
 Details:
 - The dataset directory is at ``datasets/custom_scenes``
